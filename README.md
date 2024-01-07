@@ -1,7 +1,7 @@
-## x86-minimal-disassembler
+# x86-minimal-disassembler
 An x86 disassembler with a limited instruction support, intended for educational purposes.
 
-# Supported instructions
+## Supported instructions
 -jmp rel32
 -nop
 
