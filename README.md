@@ -15,4 +15,4 @@ An x86 disassembler with a limited instruction support, intended for educational
 -inc r32\
 -dec r32\
 -push r32\
--pop r32\
+-pop r32
