@@ -9,7 +9,6 @@ class Decoder
 {
 	//decoding procedures
 };
-//endof Decoder
 
 //OPCODE
 
