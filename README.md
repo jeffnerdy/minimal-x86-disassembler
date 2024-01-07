@@ -5,9 +5,6 @@ An x86 disassembler with a limited instruction support, intended for educational
 **mdsm** translates one machine instruction at a time, and operates as a loop of input, decoding, and output. I'll add more details on the implementation of these stages, especially the decoding stage.
 
 ### Supported instructions
--jmp rel32\
--nop\
-\
 -add r/m32, imm32\
 -sub r/m32, imm32\
 -and r/m32, imm32\
@@ -18,4 +15,7 @@ An x86 disassembler with a limited instruction support, intended for educational
 -inc r32\
 -dec r32\
 -push r32\
--pop r32
+-pop r32\
+\
+-jmp rel32\
+-nop
