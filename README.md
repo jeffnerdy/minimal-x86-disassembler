@@ -1,4 +1,4 @@
-# x86-minimal-disassembler
+# minimal-x86-disassembler
 An x86 disassembler with a limited instruction support, intended for educational purposes.
 
 ## Supported instructions
