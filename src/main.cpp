@@ -13,8 +13,8 @@ int main()
 	std::string string_buffer;
 	std::vector<int> byte_buffer;
 	std::set<char> hexadecimals = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
-							        'A', 'B', 'C', 'D', 'E', 'F',
-							        'a', 'b', 'c', 'd', 'e', 'f' };
+					'A', 'B', 'C', 'D', 'E', 'F',
+					'a', 'b', 'c', 'd', 'e', 'f' };
 
 	//buffers size
 	size_t string_buffer_size = 0, byte_buffer_size = 0;
