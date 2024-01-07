@@ -1,7 +1,10 @@
 # minimal-x86-disassembler
 An x86 disassembler with a limited instruction support, intended for educational purposes.
 
-## Supported instructions
+### Workflow
+**mdsm** translates one machine instruction at a time, and operates as a loop of input, decoding, and output. I'll add more details on the implementation of these stages, especially the decoding stage.
+
+### Supported instructions
 -jmp rel32\
 -nop\
 \
