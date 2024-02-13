@@ -1,5 +1,5 @@
 # minimal-x86-disassembler
-An x86 disassembler with a limited instruction support, intended for educational purposes.
+An x86 disassembler with a limited instruction support and a very humble approach, intended for educational purposes.
 
 ### Workflow
 **mdsm** translates one machine instruction at a time, and operates as a loop of input, decoding, and output.\
